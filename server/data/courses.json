@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Python for Absolute Beginners",
+    "author": "Green Chameleon Learning",
+    "free": false,
+    "overview": "In this course, you will be taught the fundamentals of Python through video lectures, quizzes, review exercises, and programming challenges.",
+    "img": "./imgs/class1.png",
+    "url": "https://www.udemy.com/course/python-for-absolute-beginners-u/"
+  },
+  {
+    "title": "React Front To Back",
+    "author": "Brad Traversy",
+    "free": false,
+    "overview": "This course is for anyone that wants to learn React and also for React developers looking to build some projects and sharpen their skills.",
+    "img": "./imgs/class2.png",
+    "url": "https://www.udemy.com/course/react-front-to-back-2022/"
+  },
+  {
+    "title": "The Web Developer Bootcamp 2023",
+    "author": "Ulvi S.",
+    "free": false,
+    "overview": "Massive new React expansion pack covers: React basics, JSX, props, state, Vite, MaterialUI, hooks, useEffect, React design patterns, and more.",
+    "img": "./imgs/class3.png",
+    "url": "https://www.udemy.com/course/the-web-developer-bootcamp/"
+  },
+  {
+    "title": "Python for Absolute Beginners",
+    "author": "Green Chameleon Learning",
+    "free": false,
+    "overview": "In this course, you will be taught the fundamentals of Python through video lectures, quizzes, review exercises, and programming challenges.",
+    "img": "./imgs/class1.png",
+    "url": "https://www.udemy.com/course/python-for-absolute-beginners-u/"
+  },
+  {
+    "title": "React Front To Back",
+    "author": "Brad Traversy",
+    "free": false,
+    "overview": "This course is for anyone that wants to learn React and also for React developers looking to build some projects and sharpen their skills.",
+    "img": "./imgs/class2.png",
+    "url": "https://www.udemy.com/course/react-front-to-back-2022/"
+  },
+  {
+    "title": "The Web Developer Bootcamp 2023",
+    "author": "Ulvi S.",
+    "free": false,
+    "overview": "Massive new React expansion pack covers: React basics, JSX, props, state, Vite, MaterialUI, hooks, useEffect, React design patterns, and more.",
+    "img": "./imgs/class3.png",
+    "url": "https://www.udemy.com/course/the-web-developer-bootcamp/"
+  },
+  {
+    "title": "Python for Absolute Beginners",
+    "author": "Green Chameleon Learning",
+    "free": false,
+    "overview": "In this course, you will be taught the fundamentals of Python through video lectures, quizzes, review exercises, and programming challenges.",
+    "img": "./imgs/class1.png",
+    "url": "https://www.udemy.com/course/python-for-absolute-beginners-u/"
+  },
+  {
+    "title": "React Front To Back",
+    "author": "Brad Traversy",
+    "free": false,
+    "overview": "This course is for anyone that wants to learn React and also for React developers looking to build some projects and sharpen their skills.",
+    "img": "./imgs/class2.png",
+    "url": "https://www.udemy.com/course/react-front-to-back-2022/"
+  },
+  {
+    "title": "The Web Developer Bootcamp 2023",
+    "author": "Ulvi S.",
+    "free": false,
+    "overview": "Massive new React expansion pack covers: React basics, JSX, props, state, Vite, MaterialUI, hooks, useEffect, React design patterns, and more.",
+    "img": "./imgs/class3.png",
+    "url": "https://www.udemy.com/course/the-web-developer-bootcamp/"
+  },
+  {
+    "title": "React Front To Back",
+    "author": "Brad Traversy",
+    "free": false,
+    "overview": "This course is for anyone that wants to learn React and also for React developers looking to build some projects and sharpen their skills.",
+    "img": "./imgs/class2.png",
+    "url": "https://www.udemy.com/course/react-front-to-back-2022/"
+  }
+]
